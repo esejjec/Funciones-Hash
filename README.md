@@ -1,0 +1,7 @@
+# Funciones-Hash
+-MD4
+-MD5
+-SHA1
+-SHA256
+-SHA512
+-HMAC-SHA
